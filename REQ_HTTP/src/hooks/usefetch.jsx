@@ -18,15 +18,14 @@ export const useFetch = (url) => {
             },
             body: JSON.stringify(data),
           });
+          setMethod("POST");
         }
     }
 
     useEffect(() => {
         const fetchData = async () => {
             const res = await fetch(url);
-
             const json = await res.json();
-
             setData(json);
         };
 

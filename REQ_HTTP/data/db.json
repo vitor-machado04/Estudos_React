@@ -34,6 +34,11 @@
       "name": "Teclado - Gamer",
       "price": "120",
       "id": 7
+    },
+    {
+      "name": "Fone de Ouvido",
+      "price": "120",
+      "id": 8
     }
   ]
 }
