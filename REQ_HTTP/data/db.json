@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": 4,
+      "name": "Tênis Nike",
+      "price": 60.8
+    },
+    {
+      "name": "teste",
+      "price": "12",
+      "id": 5
+    },
+    {
+      "name": "teste",
+      "price": "12",
+      "id": 6
+    },
+    {
+      "name": "Teclado - Gamer",
+      "price": "120",
+      "id": 7
+    }
+  ]
+}
